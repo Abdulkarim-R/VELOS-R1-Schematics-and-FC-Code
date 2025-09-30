@@ -1,7 +1,9 @@
 # 🚀 VELOS-R1 Flight Computer
 
-![VELOS-R1 PCB](velospcb.png)
-![VELOS-R1 3D](velos3d.png)
+<p align="center">
+  <img src="png1.png" alt="PNG 1" width="45%" />
+  <img src="png2.png" alt="PNG 2" width="45%" />
+</p>
 
 ## About VELOS-R1
 VELOS-R1 is a flight computer built for **Thrust-Vector-Controlled (TVC) rockets**.  
