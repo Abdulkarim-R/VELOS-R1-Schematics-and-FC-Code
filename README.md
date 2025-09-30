@@ -1,8 +1,8 @@
 # 🚀 VELOS-R1 Flight Computer
 
 <p align="center">
-  <img src="png1.png" alt="PNG 1" width="45%" />
-  <img src="png2.png" alt="PNG 2" width="45%" />
+  <img src="velospcb.png" alt="PNG 1" width="45%" />
+  <img src="velos3d.png" alt="PNG 2" width="45%" />
 </p>
 
 ## About VELOS-R1
