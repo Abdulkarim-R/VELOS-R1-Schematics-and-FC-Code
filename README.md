@@ -1,5 +1,8 @@
 # 🚀 VELOS-R1 Flight Computer
 
+![VELOS-R1 PCB](velospcb.png)
+![VELOS-R1 3D](velos3d.png)
+
 ## About VELOS-R1
 VELOS-R1 is a flight computer built for **Thrust-Vector-Controlled (TVC) rockets**.  
 This repository includes the **PCB Gerber files** and **EasyEDA schematics** for hobbyists and pioneers who want to start their TVC journey.  
